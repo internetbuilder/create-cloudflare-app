@@ -1,4 +1,4 @@
-[build]: ./media/build.gif "Build create-cloudflare-app"
+#[build]: ./media/build.gif "Build create-cloudflare-app"
 [upload]: ./media/upload.gif "Upload create-cloudflare-app"
 
 # Create Cloudflare App
